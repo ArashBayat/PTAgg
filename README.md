@@ -1,6 +1,6 @@
 # Simulation Project
 
-This project implements a simulation for the idea described in [doc.pdf](./doc.pdf).
+This project implements a simulation for the idea described in [the article](https://www.preprints.org/manuscript/202501.1925/v1).
 The idea is to achive privacy and trust together in private data aggregation (focusing on voting systems)
 
 The only input to the simulator (command line argument) is a yaml file that inlude a list of parameter set.
@@ -14,7 +14,7 @@ In each parameter set you need to identify the following parameter (see below ex
 - `result_file`: result file name without file extention
 - `num_repeats`: number of time simulation should be repeated
 - `candidate_votes`: number of vote given to each candidate
-- `alpha`: as described in [doc.pdf](./doc.pdf)
+- `alpha`: as described in [the article](https://www.preprints.org/manuscript/202501.1925/v1)
 
 ```yaml
 - sim_name: "ExampleSimulation_1"
@@ -139,4 +139,4 @@ pip install numpy pandas pyyaml
 ```
 
 ## Experimental Results
-The parameter file and experimental simulation results of the experiment mentioned in [doc.pdf](./doc.pdf) are stored in [experiment](./experiment) directory
+The parameter file and experimental simulation results of the experiment mentioned in [the article](https://www.preprints.org/manuscript/202501.1925/v1) are stored in [experiment](./experiment) directory
