@@ -1,0 +1,61 @@
+sim_name: ExampleWithNames
+result_file: Result_1
+num_repeats: 3
+num_candidates: 2
+alpha: 0.8
+beta: 0.19999999999999996
+candidate_vote:
+- Alice: 65000
+- Bob: 110000
+expected_imaginary_votes:
+  Red: 74000.0
+  Blue: 101000.0
+probability:
+  Alice:
+    Red: 0.8
+    Blue: 0.2
+  Bob:
+    Red: 0.2
+    Blue: 0.8
+inverted_probability:
+  Alice:
+    Red: 1.33333
+    Blue: -0.33333
+  Bob:
+    Red: -0.33333
+    Blue: 1.33333
+json:
+  candidates: '["Alice", "Bob"]'
+  votes: '[65000, 110000]'
+  imaginary_candidate: '["Red", "Blue"]'
+  expected_imaginary_vote: '[74000.0, 101000.0]'
+  probability: '[[0.8, 0.19999999999999996], [0.19999999999999996, 0.8]]'
+  inverted_probability: '[[1.3333333333333333, -0.3333333333333332], [-0.3333333333333332, 1.333333333333333]]'
+percent_error_summary_statistics:
+  Alice:
+    count: 3.0
+    mean: 0.4374358974358974
+    std: 0.44659483069196954
+    min: 0.03076923076923077
+    25%: 0.19846153846153847
+    50%: 0.36615384615384616
+    75%: 0.6407692307692308
+    max: 0.9153846153846154
+  Bob:
+    count: 3.0
+    mean: 0.2584848484848485
+    std: 0.2638969454088911
+    min: 0.01818181818181818
+    25%: 0.11727272727272728
+    50%: 0.21636363636363637
+    75%: 0.37863636363636366
+    max: 0.5409090909090909
+  AllCandidate:
+    count: 6.0
+    mean: 0.3479603729603729
+    std: 0.34240686268674153
+    min: 0.01818181818181818
+    25%: 0.07716783216783217
+    50%: 0.2912587412587413
+    75%: 0.4972202797202797
+    max: 0.9153846153846154

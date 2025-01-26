@@ -1,0 +1,61 @@
+sim_name: 2_900_100K_0100_007-003
+result_file: results/experiment_5/2_900_100K_0100_007-003
+num_repeats: 100
+num_candidates: 2
+alpha: 0.9
+beta: 0.09999999999999998
+candidate_vote:
+- c1: 50000
+- c2: 50000
+expected_imaginary_votes:
+  i1: 50000.0
+  i2: 50000.0
+probability:
+  c1:
+    i1: 0.9
+    i2: 0.1
+  c2:
+    i1: 0.1
+    i2: 0.9
+inverted_probability:
+  c1:
+    i1: 1.125
+    i2: -0.125
+  c2:
+    i1: -0.125
+    i2: 1.125
+json:
+  candidates: '["c1", "c2"]'
+  votes: '[50000, 50000]'
+  imaginary_candidate: '["i1", "i2"]'
+  expected_imaginary_vote: '[50000.0, 50000.0]'
+  probability: '[[0.9, 0.09999999999999998], [0.09999999999999998, 0.9]]'
+  inverted_probability: '[[1.125, -0.12499999999999997], [-0.12499999999999997, 1.125]]'
+percent_error_summary_statistics:
+  c1:
+    count: 100.0
+    mean: 0.21366000000000004
+    std: 0.14515113822940875
+    min: 0.002
+    25%: 0.0895
+    50%: 0.184
+    75%: 0.293
+    max: 0.612
+  c2:
+    count: 100.0
+    mean: 0.21366000000000004
+    std: 0.14515113822940875
+    min: 0.002
+    25%: 0.0895
+    50%: 0.184
+    75%: 0.293
+    max: 0.612
+  AllCandidate:
+    count: 200.0
+    mean: 0.21366
+    std: 0.14478597755474257
+    min: 0.002
+    25%: 0.0895
+    50%: 0.184
+    75%: 0.293
+    max: 0.612

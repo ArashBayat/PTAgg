@@ -1,0 +1,61 @@
+sim_name: 2_666_001M_0100_EQU
+result_file: results/experiment_3/2_666_001M_0100_EQU
+num_repeats: 100
+num_candidates: 2
+alpha: 0.666
+beta: 0.33399999999999996
+candidate_vote:
+- c1: 500000
+- c2: 500000
+expected_imaginary_votes:
+  i1: 500000.0
+  i2: 500000.0
+probability:
+  c1:
+    i1: 0.666
+    i2: 0.334
+  c2:
+    i1: 0.334
+    i2: 0.666
+inverted_probability:
+  c1:
+    i1: 2.00602
+    i2: -1.00602
+  c2:
+    i1: -1.00602
+    i2: 2.00602
+json:
+  candidates: '["c1", "c2"]'
+  votes: '[500000, 500000]'
+  imaginary_candidate: '["i1", "i2"]'
+  expected_imaginary_vote: '[500000.0, 500000.0]'
+  probability: '[[0.666, 0.33399999999999996], [0.33399999999999996, 0.666]]'
+  inverted_probability: '[[2.006024096385542, -1.0060240963855418], [-1.0060240963855418, 2.006024096385542]]'
+percent_error_summary_statistics:
+  c1:
+    count: 100.0
+    mean: 0.26230600000000004
+    std: 0.17883444057382664
+    min: 0.0042
+    25%: 0.12145
+    50%: 0.2419
+    75%: 0.36669999999999997
+    max: 0.9066
+  c2:
+    count: 100.0
+    mean: 0.26230600000000004
+    std: 0.17883444057382664
+    min: 0.0042
+    25%: 0.12145
+    50%: 0.2419
+    75%: 0.36669999999999997
+    max: 0.9066
+  AllCandidate:
+    count: 200.0
+    mean: 0.26230600000000004
+    std: 0.17838454189738442
+    min: 0.0042
+    25%: 0.12145
+    50%: 0.2419
+    75%: 0.36669999999999997
+    max: 0.9066

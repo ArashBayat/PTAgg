@@ -1,0 +1,61 @@
+sim_name: 2_700_100K_0100_EQU_X04
+result_file: results/experiment_1/2_700_100K_0100_EQU_X04
+num_repeats: 100
+num_candidates: 2
+alpha: 0.7
+beta: 0.30000000000000004
+candidate_vote:
+- c1: 50000
+- c2: 50000
+expected_imaginary_votes:
+  i1: 50000.0
+  i2: 50000.0
+probability:
+  c1:
+    i1: 0.7
+    i2: 0.3
+  c2:
+    i1: 0.3
+    i2: 0.7
+inverted_probability:
+  c1:
+    i1: 1.75
+    i2: -0.75
+  c2:
+    i1: -0.75
+    i2: 1.75
+json:
+  candidates: '["c1", "c2"]'
+  votes: '[50000, 50000]'
+  imaginary_candidate: '["i1", "i2"]'
+  expected_imaginary_vote: '[50000.0, 50000.0]'
+  probability: '[[0.7, 0.30000000000000004], [0.30000000000000004, 0.7]]'
+  inverted_probability: '[[1.7500000000000002, -0.7500000000000002], [-0.7500000000000001, 1.75]]'
+percent_error_summary_statistics:
+  c1:
+    count: 100.0
+    mean: 0.5687
+    std: 0.46378760159575133
+    min: 0.0
+    25%: 0.22
+    50%: 0.47
+    75%: 0.821
+    max: 2.12
+  c2:
+    count: 100.0
+    mean: 0.5687
+    std: 0.46378760159575133
+    min: 0.0
+    25%: 0.22
+    50%: 0.47
+    75%: 0.821
+    max: 2.12
+  AllCandidate:
+    count: 200.0
+    mean: 0.5686999999999999
+    std: 0.4626208384854762
+    min: 0.0
+    25%: 0.22
+    50%: 0.47
+    75%: 0.821
+    max: 2.12

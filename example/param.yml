@@ -1,0 +1,19 @@
+- sim_name: "ExampleWithNames"
+  result_file: "Result_1"
+  num_repeats: 3
+  candidate_votes:
+    - Alice: 65000
+    - Bob: 110000
+  imaginary_candidate:
+    - Red
+    - Blue
+  alpha: 0.8
+- sim_name: "ExampleWithNumCandidates"
+  result_file: "Result_2"
+  num_repeats: 4
+  num_candidates: 3
+  candidate_votes:
+    - 65000
+    - 110000
+    - 45000
+  alpha: 0.6

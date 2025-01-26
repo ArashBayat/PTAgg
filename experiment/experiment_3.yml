@@ -1,0 +1,50 @@
+- sim_name: "2_666_001M_0100_EQU"
+  result_file: "results/experiment_3/2_666_001M_0100_EQU"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 500000
+    - 500000
+  alpha: 0.666
+- sim_name: "3_666_001M_0100_EQU"
+  result_file: "results/experiment_3/3_666_001M_0100_EQU"
+  num_repeats: 100
+  num_candidates: 3
+  candidate_votes:
+    - 333333
+    - 333333
+    - 333334
+  alpha: 0.500
+- sim_name: "4_400_001M_0100_EQU"
+  result_file: "results/experiment_3/4_400_001M_0100_EQU"
+  num_repeats: 100
+  num_candidates: 4
+  candidate_votes:
+    - 250000
+    - 250000
+    - 250000
+    - 250000
+  alpha: 0.400
+- sim_name: "5_333_001M_0100_EQU"
+  result_file: "results/experiment_3/5_333_001M_0100_EQU"
+  num_repeats: 100
+  num_candidates: 5
+  candidate_votes:
+    - 200000
+    - 200000
+    - 200000
+    - 200000
+    - 200000
+  alpha: 0.333
+- sim_name: "6_286_001M_0100_EQU"
+  result_file: "results/experiment_3/6_286_001M_0100_EQU"
+  num_repeats: 100
+  num_candidates: 6
+  candidate_votes:
+    - 166666
+    - 166666
+    - 166666
+    - 166666
+    - 166666
+    - 166670
+  alpha: 0.286

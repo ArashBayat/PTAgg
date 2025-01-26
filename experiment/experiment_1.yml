@@ -1,0 +1,320 @@
+- sim_name: "2_700_100K_0005_EQU_X00"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X00"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X00"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X00"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X00"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X00"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X00"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X00"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X01"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X01"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X01"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X01"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X01"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X01"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X01"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X01"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X02"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X02"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X02"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X02"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X02"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X02"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X02"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X02"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X03"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X03"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X03"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X03"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X03"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X03"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X03"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X03"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X04"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X04"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X04"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X04"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X04"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X04"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X04"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X04"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X05"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X05"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X05"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X05"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X05"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X05"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X05"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X05"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X06"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X06"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X06"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X06"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X06"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X06"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X06"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X06"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X07"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X07"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X07"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X07"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X07"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X07"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X07"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X07"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X08"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X08"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X08"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X08"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X08"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X08"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X08"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X08"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0005_EQU_X09"
+  result_file: "results/experiment_1/2_700_100K_0005_EQU_X09"
+  num_repeats: 5
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0010_EQU_X09"
+  result_file: "results/experiment_1/2_700_100K_0010_EQU_X09"
+  num_repeats: 10
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0050_EQU_X09"
+  result_file: "results/experiment_1/2_700_100K_0050_EQU_X09"
+  num_repeats: 50
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
+- sim_name: "2_700_100K_0100_EQU_X09"
+  result_file: "results/experiment_1/2_700_100K_0100_EQU_X09"
+  num_repeats: 100
+  num_candidates: 2
+  candidate_votes:
+    - 50000
+    - 50000
+  alpha: 0.700
